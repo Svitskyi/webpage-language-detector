@@ -1,5 +1,5 @@
 package com.nothing;
 
 public enum Language {
-    EN, FR, DE, IT
+	EN, FR, DE, IT
 }
